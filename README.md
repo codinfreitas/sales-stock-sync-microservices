@@ -47,7 +47,5 @@ O Kafka é executado em contêineres Docker usando docker-compose. Após subir o
 - 3° Iniciar o sales-service e o stock-service.
 - 4° Verificar a comunicação entre os serviços através do Kafka.
 
-Esse projeto é uma base para explorar a integração entre microsserviços com Kafka. Você pode expandir adicionando lógica de negócios e mais serviços conforme necessário!<br>
 
-Se quiser, posso ajustar ou adicionar mais detalhes. O que acha? 🚀
 
